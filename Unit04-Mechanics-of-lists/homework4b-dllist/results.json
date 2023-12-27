@@ -1,0 +1,536 @@
+{
+    "tests": [
+        {
+            "score": 1.25,
+            "max_score": 1.25,
+            "name": "test_dllist.py::test_1_push_front_and_back[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.75,
+            "max_score": 3.75,
+            "name": "test_dllist.py::test_1_push_front_and_back[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.75,
+            "max_score": 3.75,
+            "name": "test_dllist.py::test_1_push_front_and_back[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.75,
+            "max_score": 3.75,
+            "name": "test_dllist.py::test_1_push_front_and_back[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.25,
+            "max_score": 1.25,
+            "name": "test_dllist.py::test_2_insert[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.125,
+            "max_score": 3.125,
+            "name": "test_dllist.py::test_2_insert[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.875,
+            "max_score": 1.875,
+            "name": "test_dllist.py::test_2_insert[exception-thrown]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.125,
+            "max_score": 3.125,
+            "name": "test_dllist.py::test_2_insert[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.125,
+            "max_score": 3.125,
+            "name": "test_dllist.py::test_2_insert[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[exception-thrown-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[exception-thrown-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[front-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[back-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.375,
+            "max_score": 0.375,
+            "name": "test_dllist.py::test_3_front_and_back[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[front-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[back-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.375,
+            "max_score": 0.375,
+            "name": "test_dllist.py::test_3_front_and_back[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[back-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[back-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.375,
+            "max_score": 0.375,
+            "name": "test_dllist.py::test_3_front_and_back[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[front-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_dllist.py::test_3_front_and_back[front-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.375,
+            "max_score": 0.375,
+            "name": "test_dllist.py::test_3_front_and_back[list-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[exception-thrown-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[at-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[at-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[exception-thrown-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_dllist.py::test_4_at[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[at-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[at-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_dllist.py::test_4_at[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.375,
+            "max_score": 1.375,
+            "name": "test_dllist.py::test_4_at[at-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_dllist.py::test_4_at[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.25,
+            "max_score": 1.25,
+            "name": "test_dllist.py::test_5_contains[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_5_contains[contains-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.25,
+            "max_score": 1.25,
+            "name": "test_dllist.py::test_6_pop_front_and_back[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_dllist.py::test_6_pop_front_and_back[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_dllist.py::test_6_pop_front_and_back[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.125,
+            "max_score": 3.125,
+            "name": "test_dllist.py::test_6_pop_front_and_back[exception-thrown-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.125,
+            "max_score": 3.125,
+            "name": "test_dllist.py::test_6_pop_front_and_back[exception-thrown-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.25,
+            "max_score": 1.25,
+            "name": "test_dllist.py::test_7_remove[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_dllist.py::test_7_remove[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_dllist.py::test_7_remove[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_dllist.py::test_7_remove[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_dllist.py::test_7_remove[list-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_dllist.py::test_7_remove[empty-list]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_dllist.py::test_7_remove[exception-thrown-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_dllist.py::test_7_remove[exception-thrown-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_dllist.py::test_7_remove[exception-thrown-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_dllist.py::test_7_remove[exception-thrown-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.75,
+            "max_score": 0.75,
+            "name": "test_dllist.py::test_7_remove[exception-thrown-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.125,
+            "max_score": 1.125,
+            "name": "test_dllist.py::test_size_and_clear[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.875,
+            "max_score": 0.875,
+            "name": "test_dllist.py::test_size_and_clear[size-13]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

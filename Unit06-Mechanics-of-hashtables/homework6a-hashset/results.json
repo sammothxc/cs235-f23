@@ -1,0 +1,333 @@
+{
+    "tests": [
+        {
+            "score": 0.8,
+            "max_score": 0.8,
+            "name": "test_hashset.py::test1_insert[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.6,
+            "max_score": 1.6,
+            "name": "test_hashset.py::test1_insert[insert-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_hashset.py::test2_contains[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_hashset.py::test2_contains[contains-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_hashset.py::test3_remove[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_hashset.py::test3_remove[remove-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_hashset.py::test3_remove[remove-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_hashset.py::test3_remove[remove-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.4,
+            "max_score": 2.4,
+            "name": "test_hashset.py::test3_remove[contains-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.4,
+            "max_score": 2.4,
+            "name": "test_hashset.py::test3_remove[contains-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.4,
+            "max_score": 2.4,
+            "name": "test_hashset.py::test3_remove[contains-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.4,
+            "max_score": 2.4,
+            "name": "test_hashset.py::test3_remove[contains-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.4,
+            "max_score": 2.4,
+            "name": "test_hashset.py::test3_remove[contains-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_hashset.py::test4_size_and_clear[size-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_hashset.py::test4_size_and_clear[contains-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_hashset.py::test4_size_and_clear[contains-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_hashset.py::test4_size_and_clear[contains-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_hashset.py::test4_size_and_clear[contains-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_hashset.py::test4_size_and_clear[contains-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 30.0,
+            "max_score": 30.0,
+            "name": "test_hashset.py::test5_rehashing_stress_test[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

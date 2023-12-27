@@ -1,0 +1,144 @@
+{
+    "tests": [
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_avl_rebalance.py::test_1_promote_left_with_two_nodes[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_avl_rebalance.py::test_2_promote_left_with_tree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_avl_rebalance.py::test_3_promote_right_with_two_nodes[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_avl_rebalance.py::test_4_promote_right_with_tree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_avl_rebalance.py::test_5_rebalance_leaf_nodes[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.5,
+            "max_score": 4.5,
+            "name": "test_avl_rebalance.py::test_5_rebalance_leaf_nodes[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_avl_rebalance.py::test_6_rebalance_balanced_tree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.5,
+            "max_score": 4.5,
+            "name": "test_avl_rebalance.py::test_6_rebalance_balanced_tree[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_avl_rebalance.py::test_7_rebalance_ll_imbalance[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 13.5,
+            "max_score": 13.5,
+            "name": "test_avl_rebalance.py::test_7_rebalance_ll_imbalance[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_avl_rebalance.py::test_8_rebalance_rr_imbalance[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 13.5,
+            "max_score": 13.5,
+            "name": "test_avl_rebalance.py::test_8_rebalance_rr_imbalance[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_avl_rebalance.py::test_9_rebalance_lr_imbalance[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 16.2,
+            "max_score": 16.2,
+            "name": "test_avl_rebalance.py::test_9_rebalance_lr_imbalance[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.8,
+            "max_score": 1.8,
+            "name": "test_avl_rebalance.py::test_10_rebalance_rl_imbalance[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 16.2,
+            "max_score": 16.2,
+            "name": "test_avl_rebalance.py::test_10_rebalance_rl_imbalance[transformed-tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.6471,
+            "max_score": 4.5,
+            "name": "test_avl_rebalance.py::test_1_promote_left_with_two_nodes[transformed-tree]",
+            "output": "\ngroup_name = 'transformed-tree'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '   2|2\\n\\n1|1      ' == '   1|2\\n\\n      2|1'\nE             -    1|2\nE             ?    ^\nE             +    2|2\nE             ?    ^\nE               \nE             -       2|1\nE             + 1|1\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.1691,
+            "max_score": 6.3,
+            "name": "test_avl_rebalance.py::test_2_promote_left_with_tree[transformed-tree]",
+            "output": "\ngroup_name = 'transformed-tree'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE                                                          8|5                                              |                      3|4                     \nE                                                                                                           |                                              \nE                                  6|4                                                                      |          1|2                     6|3         \nE                                                                                                           |                                              \nE                      3|3                     7|1                                                          |                2|1         4|2         8|2   \nE                                                                                                           |                                              \nE                1|2         4|2                                                                            |                               5|1   7|1      \nE                                                                                                           |                                              \nE                   2|1         5|1                                                                         |\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.6471,
+            "max_score": 4.5,
+            "name": "test_avl_rebalance.py::test_3_promote_right_with_two_nodes[transformed-tree]",
+            "output": "\ngroup_name = 'transformed-tree'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '   1|2\\n\\n      2|1' == '   2|2\\n\\n1|1      '\nE             -    2|2\nE             ?    ^\nE             +    1|2\nE             ?    ^\nE               \nE             - 1|1      \nE             +       2|1\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0575,
+            "max_score": 6.3,
+            "name": "test_avl_rebalance.py::test_4_promote_right_with_tree[transformed-tree]",
+            "output": "\ngroup_name = 'transformed-tree'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE                                                          1|5                                              |                      6|4                     \nE                                                                                                           |                                              \nE                                                                                  3|4                      |          3|3                     8|2         \nE                                                                                                           |                                              \nE                                                                      2|1                     6|3          |    1|2         4|2         7|1               \nE                                                                                                           |                                              \nE                                                                                        4|2         8|2    |       2|1         5|1                        \nE                                                                                                           |                                              \nE                                                                                           5|1   7|1       |\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

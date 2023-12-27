@@ -1,0 +1,95 @@
+{
+    "tests": [
+        {
+            "score": 5.0,
+            "max_score": 5.0,
+            "name": "test_pqueues.py::test_1[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 9.0,
+            "max_score": 9.0,
+            "name": "test_pqueues.py::test_1[take-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 9.0,
+            "max_score": 9.0,
+            "name": "test_pqueues.py::test_1[take-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 9.0,
+            "max_score": 9.0,
+            "name": "test_pqueues.py::test_1[take-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 9.0,
+            "max_score": 9.0,
+            "name": "test_pqueues.py::test_1[take-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 9.0,
+            "max_score": 9.0,
+            "name": "test_pqueues.py::test_1[take-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.0,
+            "max_score": 5.0,
+            "name": "test_pqueues.py::test_2[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7.5,
+            "max_score": 7.5,
+            "name": "test_pqueues.py::test_2[take-6]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

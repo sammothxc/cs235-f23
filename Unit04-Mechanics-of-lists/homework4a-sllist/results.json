@@ -1,0 +1,158 @@
+{
+    "tests": [
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_sllist.py::test_1_push_back[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_1_push_back[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_1_push_back[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_1_push_back[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_1_push_back[list-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_1_push_back[list-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_sllist.py::test_2_pop_back[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_2_pop_back[list-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_2_pop_back[list-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_2_pop_back[list-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_2_pop_back[list-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4,
+            "max_score": 5.4,
+            "name": "test_sllist.py::test_2_pop_back[empty-list]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_sllist.py::test_3_front[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_sllist.py::test_3_front[front-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_sllist.py::test_3_front[front-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_sllist.py::test_3_front[front-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_sllist.py::test_4_size_and_clear[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.6,
+            "max_score": 3.6,
+            "name": "test_sllist.py::test_4_size_and_clear[size-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.6,
+            "max_score": 3.6,
+            "name": "test_sllist.py::test_4_size_and_clear[size-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.6,
+            "max_score": 3.6,
+            "name": "test_sllist.py::test_4_size_and_clear[size-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.6,
+            "max_score": 3.6,
+            "name": "test_sllist.py::test_4_size_and_clear[size-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.6,
+            "max_score": 3.6,
+            "name": "test_sllist.py::test_4_size_and_clear[size-5]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

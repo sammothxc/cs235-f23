@@ -1,0 +1,536 @@
+{
+    "tests": [
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_head.py::test_no_arguments[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_no_arguments[line-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.2,
+            "max_score": 0.2,
+            "name": "test_head.py::test_only_number_of_lines[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_head.py::test_only_number_of_lines[line-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_head.py::test_only_input_file[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_only_input_file[line-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_head.py::test_both_arguments[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_head.py::test_both_arguments[line-13]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_head.py::test_not_enough_lines[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-11]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-12]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-13]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-14]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_head.py::test_not_enough_lines[line-15]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_1[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_1[word-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_2[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_2[word-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_3[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_3[word-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.125,
+            "max_score": 0.125,
+            "name": "test_sort.py::test_4[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.125,
+            "max_score": 4.125,
+            "name": "test_sort.py::test_4[word-3]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

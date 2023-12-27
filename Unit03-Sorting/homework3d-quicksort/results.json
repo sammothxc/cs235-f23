@@ -1,0 +1,333 @@
+{
+    "tests": [
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_quicksort.py::test_1_medianOfThree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_6_sort_reversed[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_6_sort_reversed[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_7_sort_shuffled[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_7_sort_shuffled[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.05,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[arr-after]",
+            "output": "\ngroup_name = 'arr-after'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '7 1 8 11 9 11 15 16 20 18' == '1 7 8 9 11 11 15 16 18 20'\nE             - 1 7 8 9 11 11 15 16 18 20\nE             + 7 1 8 11 9 11 15 16 20 18\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.4643,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_6_sort_reversed[arr-after]",
+            "output": "\ngroup_name = 'arr-after'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '4 4 5 5 5 6 8 8 20 14' == '4 4 5 5 5 6 8 8 14 20'\nE             - 4 4 5 5 5 6 8 8 14 20\nE             ?                   ---\nE             + 4 4 5 5 5 6 8 8 20 14\nE             ?                +++\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.2188,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_7_sort_shuffled[arr-after]",
+            "output": "\ngroup_name = 'arr-after'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert 'aurora bicycle coffee cascade coffee firefly marshmallow kaleidoscope pillow whisper' == 'aurora bicycle cascade coffee coffee firefly kaleidoscope marshmallow pillow whisper'\nE             - aurora bicycle cascade coffee coffee firefly kaleidoscope marshmallow pillow whisper\nE             ?                              -------                      ------------\nE             + aurora bicycle coffee cascade coffee firefly marshmallow kaleidoscope pillow whisper\nE             ?                +++++++                      ++++++++++++\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "tests": [
+        {
+            "score": 1.666,
+            "max_score": 1.666,
+            "name": "test_calculator.py::test_add[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_add[answer-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_add[answer-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.666,
+            "max_score": 1.666,
+            "name": "test_calculator.py::test_subtract[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_subtract[answer-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_subtract[answer-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.666,
+            "max_score": 1.666,
+            "name": "test_calculator.py::test_multiply[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_multiply[answer-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_multiply[answer-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.666,
+            "max_score": 1.666,
+            "name": "test_calculator.py::test_divide[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_divide[answer-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_divide[answer-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.666,
+            "max_score": 1.666,
+            "name": "test_calculator.py::test_mod[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_mod[answer-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.332,
+            "max_score": 3.332,
+            "name": "test_calculator.py::test_mod[answer-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8.35,
+            "max_score": 8.35,
+            "name": "test_calculator.py::test_invalid_operation[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_numbers_divisible_by.py::test_going_up[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_up[num-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_up[num-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_up[num-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_numbers_divisible_by.py::test_going_down[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_down[num-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_down[num-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_going_down[num-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 0.0,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_up[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_up[num-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_up[num-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_up[num-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_up[num-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_down[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_down[num-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_down[num-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.3,
+            "max_score": 3.3,
+            "name": "test_numbers_divisible_by.py::test_includes_bounds_going_down[num-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.2,
+            "max_score": 0.2,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.4,
+            "max_score": 1.4,
+            "name": "test_numbers_divisible_by.py::test_negative_numbers_and_zero[num-7]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

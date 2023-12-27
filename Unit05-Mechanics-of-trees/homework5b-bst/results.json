@@ -1,0 +1,557 @@
+{
+    "tests": [
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_bst.py::test_1_insert_into_empty_tree[insert-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_2_build_complex_tree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.4,
+            "max_score": 0.4,
+            "name": "test_bst.py::test_2_build_complex_tree[insert-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.8,
+            "max_score": 5.8,
+            "name": "test_bst.py::test_2_build_complex_tree[tree]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_3_remove_leaf_node[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_3_remove_leaf_node[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_3_remove_leaf_node[remove-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.5,
+            "max_score": 5.5,
+            "name": "test_bst.py::test_3_remove_leaf_node[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_3_remove_leaf_node[remove-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_4_remove_node_with_left_child[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_4_remove_node_with_left_child[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_4_remove_node_with_left_child[remove-result]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_bst.py::test_4_remove_node_with_left_child[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_5_remove_node_with_right_child[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_5_remove_node_with_right_child[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_5_remove_node_with_right_child[remove-result]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_bst.py::test_5_remove_node_with_right_child[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_6_remove_node_with_two_leaf_children[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_6_remove_node_with_two_leaf_children[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_6_remove_node_with_two_leaf_children[remove-result]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_bst.py::test_6_remove_node_with_two_leaf_children[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_7_remove_node_with_two_subtrees[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_7_remove_node_with_two_subtrees[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_bst.py::test_7_remove_node_with_two_subtrees[remove-result]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "test_bst.py::test_7_remove_node_with_two_subtrees[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.8,
+            "max_score": 0.8,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[tree-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.6,
+            "max_score": 0.6,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[remove-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 4.0,
+            "max_score": 4.0,
+            "name": "test_bst.py::test_8_repeatedly_remove_root[tree-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_9_contains[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-9]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_bst.py::test_9_contains[contains-10]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[remove-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[remove-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 0.1,
+            "name": "test_bst.py::test_10_size_and_clear[insert-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-8]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9045,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[everything-else]",
+            "output": "\ngroup_name = 'everything-else'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE             --- Test 10 output ---   | --- Test 10 output ---\nE                                      |                       \nE             tree.size() = 1840820368 | tree.size() = 0       \nE             tree.insert(3) = true    | tree.insert(3) = true \nE             tree.size() = 1840820369 | tree.size() = 1       \nE             tree.insert(3) = false   | tree.insert(3) = false\nE             tree.size() = 1840820369 | tree.size() = 1       \nE                                      |                       \nE             tree.remove(3) = true    | tree.remove(3) = true \nE             tree.size() = 1840820368 | tree.size() = 0       \nE             tree.remove(3) = false   | tree.remove(3) = false\nE             tree.size() = 1840820368 | tree.size() = 0       \nE                                      |                       \nE             tree.insert(4) = true    | tree.insert(4) = true \nE             tree.insert(6) = true    | tree.insert(6) = true \nE             tree.insert(7) = true    | tree.insert(7) = true \nE             tree.insert(1) = true    | tree.insert(1) = true \nE             tree.size() = 1840820372 | tree.size() = 4       \nE                                      |                       \nE             tree.clear()             | tree.clear()          \nE             tree.size() = 0          | tree.size() = 0       \nE                                      |                       \nE             tree.insert(7) = true    | tree.insert(7) = true \nE             tree.insert(9) = true    | tree.insert(9) = true \nE             tree.size() = 2          | tree.size() = 2\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-1]",
+            "output": "\ngroup_name = 'size-1'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '8' == '0'\nE             - 0\nE             + 8\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-2]",
+            "output": "\ngroup_name = 'size-2'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '1840820369' == '1'\nE             - 1\nE             + 1840820369\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.1,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-3]",
+            "output": "\ngroup_name = 'size-3'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '1840820369' == '1'\nE             - 1\nE             + 1840820369\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-4]",
+            "output": "\ngroup_name = 'size-4'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '8' == '0'\nE             - 0\nE             + 8\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-5]",
+            "output": "\ngroup_name = 'size-5'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '8' == '0'\nE             - 0\nE             + 8\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.0,
+            "max_score": 1.0,
+            "name": "test_bst.py::test_10_size_and_clear[size-6]",
+            "output": "\ngroup_name = 'size-6'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           AssertionError: assert '2' == '4'\nE             - 4\nE             + 2\n\n/opt/homebrew/lib/python3.11/site-packages/byu_pytest_utils/dialog.py:31: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}
